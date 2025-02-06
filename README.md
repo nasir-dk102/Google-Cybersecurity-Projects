@@ -8,7 +8,7 @@
 
 ### 📌 Overview
 
-A **🔴 DDoS Attack 🔴** targeted a multimedia company's internal network, disrupting services for **⏳ Two Hours ⏳**. This report follows the **📜 NIST Cybersecurity Framework 📜** to investigate the incident, mitigate vulnerabilities, and prevent future attacks.
+ A **🔴 DDoS Attack 🔴** targeted a multimedia company's internal network, disrupting services for **⏳ Two Hours ⏳**. This report follows the **📜 NIST Cybersecurity Framework 📜** to investigate the incident, mitigate vulnerabilities, and prevent future attacks.
 
 ### 🔍 Scenario Summary
 
