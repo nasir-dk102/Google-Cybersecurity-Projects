@@ -28,7 +28,7 @@ A **🔴 DDoS Attack 🔴** targeted a multimedia company's internal network, di
 
 ### 📂 Project Files
 
-📄 **[Incident Report Analysis (Multimedia Company).docx]([Incident report analysis (Multimedia company).docx](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f4f6ed91363d1b414217fb596648104f7481ab00/Incident%20report%20analysis%20(Multimedia%20company).docx))** - Full cybersecurity incident report.
+📄 **Incident Report Analysis (Multimedia Company).docx([Incident report analysis (Multimedia company).docx](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f4f6ed91363d1b414217fb596648104f7481ab00/Incident%20report%20analysis%20(Multimedia%20company).docx))** - Full cybersecurity incident report.
 
 ### 🎯 Key Takeaways
 
