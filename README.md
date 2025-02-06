@@ -28,7 +28,7 @@
 
 ### 📂 Project Files
 
-📄 **Incident Report Analysis (Multimedia Company).docx([Incident report analysis (Multimedia company).docx](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f4f6ed91363d1b414217fb596648104f7481ab00/Incident%20report%20analysis%20(Multimedia%20company).docx))** - Full cybersecurity incident report.
+📄 **Incident Report Analysis (Multimedia Company).docx([Incident report analysis (Multimedia company).docx]([https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f4f6ed91363d1b414217fb596648104f7481ab00/Incident%20report%20analysis%20(Multimedia%20company).docx)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/742d1a655c6b3d884905946bde4608c5b9c43f76/Incident%20report%20analysis%20(Multiplemedia%20company%201)%20.pdf))** - Full cybersecurity incident report.
 
 ### 🎯 Key Takeaways
 
