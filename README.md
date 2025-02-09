@@ -1,6 +1,6 @@
 # 🛡️ Google Cybersecurity Projects
 
-🚀 **A collection of cybersecurity projects showcasing my skills in incident response, security analysis, and risk mitigation.**
+🚀 **A collection of cybersecurity projects showcasing my skills in incident response, security analysis, risk mitigation and linux.**
 
 ---
 
@@ -37,10 +37,35 @@
 🔹 **Real-world security application** – This project reinforced my expertise in **🔐 Network Security & Risk Mitigation 🔐**.  
 
 ### 🌎 Other Projects 
-📄Porject 2: **[Decrypt an encrypted message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** - Using 'Tr' command and 'OpenSSL tool' to decrypt a file
-
+📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** - Using 'tr' command and 'OpenSSL' to decrypt a file
 
 ---
+## 📁 Project 2: Decrypt an Encrypted Message
+
+### 📌 Overview
+In my home directory, I have a few files that have been encrypted with caesar cipher. The task is find and decrypt them using **'tr'** command and **OpenSSL**
+
+### ⌨️ Linux commands, options and tools used
+🖋 **tr command** <br>
+🖋 **OpenSSL** <br>
+🖋 **ls command along with -a option** <br>
+🖋 **cat command** <br>
+🖋 **cd command** <br>
+
+### 🔍 Scenario Summary
+📌 **Files discovered:** using 'pwd' and 'ls -a' command I navigated to the files <br>
+📌 **Files opened:** cat command allowed me to open the files <br> 
+📌 **Caesar cipher:** using 'tr' command, I shifted the letters back by 3 to uncover the message <br> 
+📌 **Decrypting the file:** The Q1.encryped file was decrypted using OpenSSL <br> 
+
+### 📂 Project Files
+
+📄 **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/901d9e0632f7f1c48f021c097f0310b29856848b/Decrypt%20an%20encrypted%20message.pdf))** - Using 'tr' command to decrypt caesar cipher  and 'OpenSSL' to decrypt a file.
+
+### 🌎 Other Projects 
+📂Project 1: **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** <br>
+📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** 
+
 
 ## 📬 Contact & Feedback
 
