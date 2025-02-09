@@ -36,6 +36,10 @@
 🔹 **Incident response is structured** – Following a framework like **NIST CSF** improves response efficiency.  
 🔹 **Real-world security application** – This project reinforced my expertise in **🔐 Network Security & Risk Mitigation 🔐**.  
 
+### 🌎 Other Projects 
+✅ **Decrypt an encrypted message(https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/6f0d7d8b4cf9d76855cde8f590e1b11120b567a9/Decrypt%20an%20encrypted%20message.pdf)** - Using 'Tr' command and 'OpenSSL tool' to decrypt a file
+
+
 ---
 
 ## 📬 Contact & Feedback
