@@ -28,7 +28,7 @@
 
 ### 📂 Project Files
 
-📄 **[Incident Report Analysis (Multimedia Company).docx](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** - Full cybersecurity incident report.
+📄 **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** - Full cybersecurity incident report.
 
 ### 🎯 Key Takeaways
 
@@ -37,7 +37,7 @@
 🔹 **Real-world security application** – This project reinforced my expertise in **🔐 Network Security & Risk Mitigation 🔐**.  
 
 ### 🌎 Other Projects 
-✅ **[Decrypt an encrypted message(https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/6f0d7d8b4cf9d76855cde8f590e1b11120b567a9/Decrypt%20an%20encrypted%20message.pdf)]** - Using 'Tr' command and 'OpenSSL tool' to decrypt a file
+✅ **Decrypt an encrypted message** - Using 'Tr' command and 'OpenSSL tool' to decrypt a file
 
 
 ---
