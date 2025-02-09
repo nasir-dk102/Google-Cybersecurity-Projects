@@ -37,7 +37,7 @@
 🔹 **Real-world security application** – This project reinforced my expertise in **🔐 Network Security & Risk Mitigation 🔐**.  
 
 ### 🌎 Other Projects 
-✅ **[Decrypt an encrypted message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** - Using 'Tr' command and 'OpenSSL tool' to decrypt a file
+📄Porject 2: **[Decrypt an encrypted message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** - Using 'Tr' command and 'OpenSSL tool' to decrypt a file
 
 
 ---
