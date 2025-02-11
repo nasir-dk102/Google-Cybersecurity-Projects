@@ -80,17 +80,17 @@ In this project I will investigate two files that appear to be identical, I will
 🖋 **cmp command** <br>
 
 ### 🔍 Scenario Summary
-📌 **Generate hashes for files:** using 'pwd' and 'ls -a' command I navigated to the files <br>
-📌 **Compare hashes:** cat command allowed me to open the files <br> 
+📌 **Generate hashes for files:** 
+📌 **Compare hashes:** 
 
 
 ### 📂 Project Files
 
-📄 **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/901d9e0632f7f1c48f021c097f0310b29856848b/Decrypt%20an%20encrypted%20message.pdf))** - Using 'tr' command to decrypt caesar cipher  and 'OpenSSL' to decrypt a file.
-
+📄 **[Create hash values](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/0a28ba6960bf5208817924dabc28d731faf969bb/Create%20hash%20values.pdf)** - Hashing my files to see if they are identical. 
 ### 🌎 Other Projects 
 📂Project 1: **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** <br>
 📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** 
+
 ## 📬 Contact & Feedback
 
 👨‍💻 **Created by:** Nasir Ali  
