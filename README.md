@@ -70,7 +70,7 @@ In my home directory, I have a few files that have been encrypted with caesar ci
 ## 📁 Project 3: Create hash values
 
 ### 📌 Overview
-In this project I will investigate two files that appear to be identical, I will compare their hash values. If the hash values differ, it confirms that the files are not identical.**
+In this project I will investigate two files that appear to be identical, I will compare their hash values. If the hash values differ, it confirms that the files are not identical.
 
 ### ⌨️ Linux commands, options and tools used
 🖋 **sha256sum command** <br>
@@ -90,6 +90,35 @@ In this project I will investigate two files that appear to be identical, I will
 ### 🌎 Other Projects 
 📂Project 1: **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** <br>
 📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** 
+
+---
+## 📁 Project 4: Access control worksheet
+
+### 📌 Overview
+A payment was made from the organisation to an unknown bank account, the finance manager denied any wrongdoing and claimed they were not aware of the transaction. The business owner has asked me to investigate the event to prevent any similar incidents from happening again. 
+
+
+### ⌨️ Mentioned Recommendations 
+🖋 **User-provisioning** <br>
+🖋 **Role-based access control** <br>
+🖋 **Multi-factor authentication** <br>
+🖋 **Separation of duties** <br>
+🖋 **Principle of least privilege** <br>
+
+### 🔍 Scenario Summary
+📌 **Threat actor was a contractor:** <br>
+📌 **Account was still active after contract terminated:** <br>
+
+
+### 📂 Project Files
+
+📄 **[Access control worksheet](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f8f4baad34531893deee60f1d85b13c52c2e00e9/Access%20control%20worksheet.pdf)** - Security control recommendations. 
+
+### 🌎 Other Projects 
+📂Project 1: **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** <br>
+📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** <br>
+📂Project 3: **[Create hash values](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/0a28ba6960bf5208817924dabc28d731faf969bb/Create%20hash%20values.pdf)** <br>
+
 
 ## 📬 Contact & Feedback
 
