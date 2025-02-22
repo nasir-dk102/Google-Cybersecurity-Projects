@@ -120,12 +120,38 @@ A payment was made from the organisation to an unknown bank account, the finance
 📂Project 3: **[Create hash values](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/0a28ba6960bf5208817924dabc28d731faf969bb/Create%20hash%20values.pdf)** <br>
 
 
+---
+## 📁 Project 5: Vulnerability Assessment Report for an e-commerce company 
+
+### 📌 Overview
+I am conducting a vulnerability Assessment for a small e-commerce company by evaluating the risks associated with vulnerable information systems within the business. I will then present a remediation plan.   
+
+
+### ⌨️ Remediation plans 
+🖋 **User-provisioning** <br>
+🖋 **Role-based access control** <br>
+🖋 **Multi-factor authentication** <br>
+🖋 **Separation of duties** <br>
+🖋 **Principle of least privilege** <br>
+
+### 🔍 Scenario Summary
+📌 **Vulnerable database** <br>
+📌 **NIST SP 800-30 is used as a guide** <br>
+
+
+### 📂 Project Files
+
+📄 **[Vulnerability Assessment Report for an e-commerce company](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7fdf4caecf39bc0ea959f2d6919045b89a90e799/Vulnerability%20Assessment%20Report%20for%20E-commerce%20business.pdf)** - Security control recommendations. 
+
+### 🌎 Other Projects 
+📂Project 1: **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** <br>
+📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** <br>
+📂Project 3: **[Create hash values](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/0a28ba6960bf5208817924dabc28d731faf969bb/Create%20hash%20values.pdf)** <br>
+📂Project 4: **[Access control worksheet](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f8f4baad34531893deee60f1d85b13c52c2e00e9/Access%20control%20worksheet.pdf)**
+
 ## 📬 Contact & Feedback
 
 👨‍💻 **Created by:** Nasir Ali  
 📧 **Email:** [nasir.dk102@gmail.com](mailto:nasir.dk102@gmail.com)  
 🔗 **GitHub:** [github.com/nasir-dk102](https://github.com/nasir-dk102)  
 🌟 **LinkedIn:** [linkedin.com/in/nasir-ali-043819349](https://linkedin.com/in/nasir-ali-043819349)  
-
-
-
