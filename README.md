@@ -149,6 +149,44 @@ I am conducting a vulnerability Assessment for a small e-commerce company by eva
 📂Project 3: **[Create hash values](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/0a28ba6960bf5208817924dabc28d731faf969bb/Create%20hash%20values.pdf)** <br>
 📂Project 4: **[Access control worksheet](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f8f4baad34531893deee60f1d85b13c52c2e00e9/Access%20control%20worksheet.pdf)**
 
+
+## 📁 Project 6: Algorithm for file updates in Python
+
+
+### 📌 Overview
+
+This project demonstrates a Python-based file update algorithm used to manage access control by processing IP address lists. It simulates how a 🔐 Security Analyst 🔐 might automate updates to access control files to improve efficiency and reduce human error in operational environments.
+### 🔍 Scenario Summary
+
+📌 Task: Remove unauthorized IPs from the allow list
+📌 Cause: Some IPs on the allow list no longer meet access requirements
+📌 Impact: Manual updates are time-consuming and error-prone
+📌 Solution: A Python script that automatically compares and removes IPs listed in a separate "remove list"
+📌 Outcome: Faster, reliable, and repeatable access control management
+
+### 🛠️ Key steps in the algorithm 
+
+✔️ Read: Load the allow_list.txt file into memory
+✔️ Split: Convert the file content into a Python list of IP addresses
+✔️ Compare: Iterate through a remove_list and check for matches
+✔️ Filter: Remove any IPs from the allow list that are found in the remove list
+✔️ Write: Save the updated list back to the file
+
+### 📂 Project Files
+
+📄 **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** - Full cybersecurity incident report.
+
+### 🎯 Key Takeaways
+
+🔹 Automation saves time – Updating files programmatically avoids manual errors
+🔹 Python is powerful – Simple functions like read(), split(), remove(), and join() streamline the process
+🔹 Secure operations – Reliable access control management is essential for maintaining secure environments
+🔹 File handling best practices – Using with open() ensures safe and efficient file management
+
+### 🌎 Other Projects 
+📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** - Using 'tr' command and 'OpenSSL' to decrypt a file
+
+
 ## 📬 Contact & Feedback
 
 👨‍💻 **Created by:** Nasir Ali  
