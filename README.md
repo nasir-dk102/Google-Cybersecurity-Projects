@@ -158,34 +158,37 @@ I am conducting a vulnerability Assessment for a small e-commerce company by eva
 This project demonstrates a Python-based file update algorithm used to manage access control by processing IP address lists. It simulates how a 🔐 Security Analyst 🔐 might automate updates to access control files to improve efficiency and reduce human error in operational environments.
 ### 🔍 Scenario Summary
 
-📌 Task: Remove unauthorized IPs from the allow list
-📌 Cause: Some IPs on the allow list no longer meet access requirements
-📌 Impact: Manual updates are time-consuming and error-prone
-📌 Solution: A Python script that automatically compares and removes IPs listed in a separate "remove list"
-📌 Outcome: Faster, reliable, and repeatable access control management
+📌 Task: Remove unauthorized IPs from the allow list <br>
+📌 Cause: Some IPs on the allow list no longer meet access requirements <br>
+📌 Impact: Manual updates are time-consuming and error-prone <br> 
+📌 Solution: A Python script that automatically compares and removes IPs listed in a separate "remove list" <br>
+📌 Outcome: Faster, reliable, and repeatable access control management <br>
 
 ### 🛠️ Key steps in the algorithm 
 
-✔️ Read: Load the allow_list.txt file into memory
-✔️ Split: Convert the file content into a Python list of IP addresses
-✔️ Compare: Iterate through a remove_list and check for matches
-✔️ Filter: Remove any IPs from the allow list that are found in the remove list
-✔️ Write: Save the updated list back to the file
+✔️ Read: Load the allow_list.txt file into memory <br>
+✔️ Split: Convert the file content into a Python list of IP addresses <br>
+✔️ Compare: Iterate through a remove_list and check for matches <br>
+✔️ Filter: Remove any IPs from the allow list that are found in the remove list <br>
+✔️ Write: Save the updated list back to the file <br>
 
 ### 📂 Project Files
 
-📄 **[Algorithm for file updates in Python)] (https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/5658f1edd3deac50464ddbf3efbb3ad877ec3cb2/Algorithm%20for%20file%20updates%20in%20Python.pdf)** - Full cybersecurity incident report.
+📄 **[Algorithm for file updates in Python](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/5658f1edd3deac50464ddbf3efbb3ad877ec3cb2/Algorithm%20for%20file%20updates%20in%20Python.pdf)** - Usign for loop, with statement, and read() and write() functions.
 
 ### 🎯 Key Takeaways
 
-🔹 Automation saves time – Updating files programmatically avoids manual errors
-🔹 Python is powerful – Simple functions like read(), split(), remove(), and join() streamline the process
-🔹 Secure operations – Reliable access control management is essential for maintaining secure environments
-🔹 File handling best practices – Using with open() ensures safe and efficient file management
+🔹 Automation saves time – Updating files programmatically avoids manual errors <br>
+🔹 Python is powerful – Simple functions like read(), split(), remove(), and join() streamline the process <br> 
+🔹 Secure operations – Reliable access control management is essential for maintaining secure environments <br>
+🔹 File handling best practices – Using with open() ensures safe and efficient file management <br>
 
 ### 🌎 Other Projects 
-📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** - Using 'tr' command and 'OpenSSL' to decrypt a file
-
+📂Project 1: **[Incident Report Analysis (Multimedia Company)](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/409ba4884b68a7d2aa610557710cf80ed4d24397/Incident%20report%20analysis%20(Multimedia%20company%20)%20.pdf)** <br>
+📂Project 2: **[Decrypt an Encrypted Message](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7537f9451c18aa6c3fd4f162486ff2965457f8af/Decrypt%20an%20encrypted%20message.pdf)** <br>
+📂Project 3: **[Create hash values](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/0a28ba6960bf5208817924dabc28d731faf969bb/Create%20hash%20values.pdf)** <br>
+📂Project 4: **[Access control worksheet](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/f8f4baad34531893deee60f1d85b13c52c2e00e9/Access%20control%20worksheet.pdf)** <br>
+📂Project 5: **[Vulnerability Assessment Report for an e-commerce company](https://github.com/nasir-dk102/Google-Cybersecurity-Projects/blob/7fdf4caecf39bc0ea959f2d6919045b89a90e799/Vulnerability%20Assessment%20Report%20for%20E-commerce%20business.pdf)** <br>
 
 ## 📬 Contact & Feedback
 
